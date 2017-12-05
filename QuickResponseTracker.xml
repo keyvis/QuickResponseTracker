@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Forms>
+    <Form Class="Window" LAnchorPoint="0" LAnchorOffset="0" TAnchorPoint="0" TAnchorOffset="0" RAnchorPoint="0" RAnchorOffset="80" BAnchorPoint="0" BAnchorOffset="80" RelativeToClient="1" Font="CRB_HeaderLarge_O" Text="15.0" BGColor="UI_WindowBGDefault" TextColor="UI_WindowTextDefault" Template="Default" TooltipType="OnCursor" Name="QuickResponseIcon" Border="1" Picture="1" SwallowMouseClicks="1" Moveable="1" Escapable="0" Overlapped="1" Sprite="CRB_Basekit:kitBase_HoloOrange_Tiny" TextId="" DT_CENTER="1" DT_VCENTER="1" IgnoreMouse="1" RequireMetaKeyToMove="1" TooltipColor="" Tooltip=""/>
+</Forms>
