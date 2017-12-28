@@ -52,7 +52,6 @@ function QuickResponseTracker:OnLoad()
 end
 
 function QuickResponseTracker:OnDocLoaded()
-
 	if self.xmlDoc ~= nil and self.xmlDoc:IsLoaded() then
 		self.wndMain = Apollo.LoadForm(self.xmlDoc, "QuickResponseIcon", nil, self)
 		if self.wndMain == nil then

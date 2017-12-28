@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Addon Author="keyvis" APIVersion="16" Name="QuickResponseTracker" Description="Track Quick Response AMP Internal Cooldown.">
+<Addon Author="keyvis" APIVersion="16" Name="QuickResponseTracker" Description="Tracks Quick Response AMP Internal Cooldown.">
     <Script Name="QuickResponseTracker.lua"/>
     <Form Name="QuickResponseTracker.xml"/>
 </Addon>
